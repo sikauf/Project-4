@@ -37,13 +37,12 @@ void startTests() {
 }
 
 void test_position() {
-    // Write your tests here
     return;
 }
 
 void test_ship() {
-    // Write your tests here
-    return;
+    Ship samBoat;
+    cout << samBoat.get_start() << " " << samBoat.get_end() << endl;
 }
 
 void test_player() {
